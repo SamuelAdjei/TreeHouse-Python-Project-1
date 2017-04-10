@@ -23,7 +23,7 @@ Before you start:
 
 Other Goals:
 
-Done - 1. Create a script named league_builder.py.
+1. Create a script named league_builder.py.
 2. Make sure the script doesn't execute when imported; put all of your logic and function calls inside of an if __name__ == "__main__": block.
 3. Create variables and programming logic to divide the 18 players into three teams: Sharks, Dragons and Raptors. Make sure the teams have the same number of players on them, and that the experience players are divided equally across the three teams.
 4. Create a text file named teams.txt that includes the name of a team, followed by the players on that team. List all three teams and their players.
