@@ -46,6 +46,10 @@ if __name__ == "__main__":
         Dragons.extend(undragon)
         Sharks.extend(unshark)
         Raptors.extend(unraptor)
+        
+        print_txt(Dragons)
+        print_txt(Sharks)
+        print_txt(Raptors)
 
     #Prints team names, members, experience, and guardians to teams.txt
     def print_txt(team):
